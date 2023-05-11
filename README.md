@@ -1,4 +1,5 @@
-Portfólio da Empresa de Desenvolvimento - Página Front-End
+Portfólio da Empresa de Desenvolvimento
+Página Front-End
 Este é um projeto de página front-end para o portfólio de uma empresa de desenvolvimento de software. A página tem como objetivo apresentar a empresa, seus serviços, projetos recentes e membros da equipe, proporcionando uma visão geral das habilidades e experiência da empresa.
 
 Funcionalidades
